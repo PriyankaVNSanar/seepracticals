@@ -1,4 +1,1 @@
 # seepracticals
-- **exam**
-- *seepractical*
-- cbcs
