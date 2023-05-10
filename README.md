@@ -1,1 +1,4 @@
 # seepracticals
+- *exam*
+- **praticals**
+- ##viva
